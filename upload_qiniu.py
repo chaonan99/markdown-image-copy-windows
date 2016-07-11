@@ -18,7 +18,7 @@ cf = ConfigParser.ConfigParser()
 cf.read('config.ini')
 access_key = cf.get('qiniu', 'ak') # AK
 secret_key = cf.get('qiniu', 'sk') # SK
-bucket_name = cf.get('qiniu', 'bucket') # 七牛空间名
+bucket_name = cf.get('qiniu', 'bucket') # Qiniu storage name
 url = cf.get('qiniu', 'url') # url
 
 q = Auth(access_key, secret_key)
