@@ -1,6 +1,6 @@
 ## Introduction
 
-This script is used for uploading image and get markdown quote from file or clipboard (include screenshot) by simply click <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>c/w</kbd> -> <kbd>ctrl</kbd>+<kbd>v</kbd>. Never worrying about copy image to markdown!
+This script is used for uploading image and get markdown quote from file or clipboard (include screenshot) by simply click <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>c/w</kbd> -> <kbd>ctrl</kbd>+<kbd>v</kbd>. Never worrying about copying image to markdown!
 
 This script is based on [this](https://github.com/xzonepiece/markdown-img-upload-windows) implementation, which use [qiniu cloud](https://portal.qiniu.com/) as image storage and [AutoHotkey](http://www.ahkscript.org/) to get hot key action. For MAC users, an altertive implementation is [here](https://github.com/tiann/markdown-img-upload).
 
@@ -13,7 +13,7 @@ This script is based on [this](https://github.com/xzonepiece/markdown-img-upload
 
 > Install AutoHotkey from the official website and copy AutoHotkey.dll that match your system into **windows/System32** folder
 
-* qiniu cloud account
+* Qiniu cloud account
 Refer to [this](https://github.com/tiann/markdown-img-upload) repo to find out how to get AK, SK and url of your storage.
 
 ## Usage
