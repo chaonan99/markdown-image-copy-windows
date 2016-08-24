@@ -36,4 +36,7 @@ Refer to [this](https://github.com/tiann/markdown-img-upload) repo to find out h
 1. You should first make the image in the clipboard, either use <kbd>ctrl</kbd>+<kbd>c</kbd> or right-click it and clike **Copy**. This process can automatically be done by most screenshot software.
 2. Click <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>w</kbd>, again after the command window shows up and disappear, you can copy your markdown script.
 
+## License
+MIT license.
+
 Enjoy using **Markdown**!
